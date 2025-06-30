@@ -19,7 +19,7 @@ Este repositorio contiene la tarea de la materia de **Algoritmos**, realizada po
 ## 📁 Estructura del proyecto
 
 ```bash
-📦 tarea-algoritmo
+📦 tarea-algoritmogit 
 ├── 📄 README.md
 ├── 📄 ejercicio1.py
 ├── 📄 ejercicio2.py
